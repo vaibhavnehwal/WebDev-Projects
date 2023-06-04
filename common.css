@@ -10,3 +10,21 @@ body {
 .arrange-left{
     float :left; 
 }
+
+.wid-25{
+    width: 25%;
+}
+ 
+.wid-50{
+    width: 50%;
+}
+
+.common-btn{
+    height : 40px;
+    border : 1px solid #ddd;
+    border-radius: 0;
+    background-color: #fff;
+    min-width: 50px;
+    text-align: center;
+    color: #D19C97
+}
