@@ -6,7 +6,7 @@
 .navigation{
     font-family:  var(--font1);
     height:74px;
-    
+
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -34,10 +34,10 @@
 
 .content {
     height : 95px;
-    background-color: blue;
+   
 }
 
 .footer{
     height :50px;
-    background-color: blueviolet;
+  
 }
